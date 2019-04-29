@@ -31,36 +31,44 @@ Login as a User
 SCREENSHOTS
 
 Sign In
+![image](https://user-images.githubusercontent.com/17830317/56876665-04de9980-6a17-11e9-9e81-cdc83a1e8873.png)
  
-
-
-
+ 
 Admin Main View Page - ADMIN
+![image](https://user-images.githubusercontent.com/17830317/56876759-9ea64680-6a17-11e9-8cd2-8c2817d3596d.png)
 
- 
+
 Matches Generated Page – ADMIN
-
- 
+![image](https://user-images.githubusercontent.com/17830317/56876766-ac5bcc00-6a17-11e9-8565-93cd0a2f04f6.png)
 
 
 REGISTER POINTS - ADMIN
+![image](https://user-images.githubusercontent.com/17830317/56876776-b7aef780-6a17-11e9-90c4-ddb77ab6614d.png)
 
  
 
 
 WELCOME PAGE – USER
+![image](https://user-images.githubusercontent.com/17830317/56876706-440cea80-6a17-11e9-9c18-8d070a2d388e.png)
 
- 
 
 DEFENDERS LISTED AS AN OVERLAY - USER
+![image](https://user-images.githubusercontent.com/17830317/56876731-6e5ea800-6a17-11e9-8235-ef003a8ce3e4.png)
+
 
  
 BUDGET DECREASING ON SELECTING A PLAYER -USER
+![image](https://user-images.githubusercontent.com/17830317/56876738-7a4a6a00-6a17-11e9-950c-2c10cd3c9e49.png)
+
  
 
 BROWSING A PLAYER -USER
+![image](https://user-images.githubusercontent.com/17830317/56876743-83d3d200-6a17-11e9-9e45-c223812045b9.png)
+
 
  
 PDF VIEW
+![image](https://user-images.githubusercontent.com/17830317/56876750-8cc4a380-6a17-11e9-9347-642577d0d913.png)
+
  
 
