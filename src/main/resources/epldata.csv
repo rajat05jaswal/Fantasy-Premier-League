@@ -1,0 +1,232 @@
+name,club,position,position_cat,fpl_value
+Alexis Sanchez,Arsenal,LW,1,12
+Mesut Ozil,Arsenal,AM,1,9.5
+Petr Cech,Arsenal,GK,4,5.5
+Theo Walcott,Arsenal,RW,1,7.5
+Laurent Koscielny,Arsenal,CB,3,6
+Hector Bellerin,Arsenal,RB,3,6
+Olivier Giroud,Arsenal,CF,1,8.5
+Nacho Monreal,Arsenal,LB,3,5.5
+Shkodran Mustafi,Arsenal,CB,3,5.5
+Alex Iwobi,Arsenal,LW,1,5.5
+Granit Xhaka,Arsenal,DM,2,5.5
+Alex Oxlade-Chamberlain,Arsenal,RM,2,6
+Jack Wilshere,Arsenal,CM,2,5.5
+Aaron Ramsey,Arsenal,CM,2,7
+Francis Coquelin,Arsenal,DM,2,4.5
+Gabriel Paulista,Arsenal,CB,3,5
+Kieran Gibbs,Arsenal,LB,3,5
+Santi Cazorla,Arsenal,CM,2,7
+Danny Welbeck,Arsenal,CF,1,7.5
+Rob Holding,Arsenal,CB,3,5
+Mohamed Elneny,Arsenal,DM,2,4.5
+Lucas Perez,Arsenal,CF,1,7.5
+Emiliano Martinez,Arsenal,GK,4,4
+David Ospina,Arsenal,GK,4,5
+Carl Jenkinson,Arsenal,RB,3,4.5
+Per Mertesacker,Arsenal,CB,3,5
+Sead Kolasinac,Arsenal,LB,3,6
+Alexandre Lacazette,Arsenal,CF,1,10.5
+Joshua King,Bournemouth,SS,1,7.5
+Jermain Defoe,Bournemouth,CF,1,8
+Charlie Daniels,Bournemouth,LB,3,5
+Artur Boruc,Bournemouth,GK,4,4.5
+Steve Cook,Bournemouth,CB,3,5
+Junior Stanislas,Bournemouth,LW,1,6
+Adam Smith,Bournemouth,RB,3,5
+Ryan Fraser,Bournemouth,LW,1,5.5
+Simon Francis,Bournemouth,RB,3,4.5
+Benik Afobe,Bournemouth,CF,1,6
+Harry Arter,Bournemouth,CM,2,5
+Marc Pugh,Bournemouth,LW,1,5
+Callum Wilson,Bournemouth,CF,1,6
+Nathan Ake,Bournemouth,CB,3,5
+Dan Gosling,Bournemouth,CM,2,5
+Andrew Surman,Bournemouth,CM,2,4.5
+Jordon Ibe,Bournemouth,RW,1,5
+Lewis Cook,Bournemouth,CM,2,4.5
+Lys Mousset,Bournemouth,CF,1,5
+Adam Federici,Bournemouth,GK,4,4
+Max Gradel,Bournemouth,LW,1,5
+Tyrone Mings,Bournemouth,CB,3,4.5
+Brad Smith,Bournemouth,LB,3,4
+Asmir Begovic,Bournemouth,GK,4,4.5
+Tom Heaton,Burnley,GK,4,5
+Sam Vokes,Burnley,CF,1,6
+Andre Gray,Burnley,CF,1,6.5
+Ben Mee,Burnley,CB,3,4.5
+Stephen Ward,Burnley,LB,3,4.5
+Matthew Lowton,Burnley,RB,3,4.5
+Ashley Barnes,Burnley,CF,1,5.5
+Jeff Hendrick,Burnley,CM,2,5.5
+Scott Arfield,Burnley,LM,2,5
+Steven Defour,Burnley,CM,2,5.5
+Dean Marney,Burnley,CM,2,4.5
+Jack Cork,Burnley,DM,2,4.5
+Johann Berg Gudmundsson,Burnley,RW,1,5
+Robbie Brady,Burnley,LM,2,5.5
+James Tarkowski,Burnley,CB,3,4.5
+Ashley Westwood,Burnley,DM,2,4.5
+Kevin Long,Burnley,CB,3,4
+Matthew Taylor,Burnley,LM,2,4.5
+Eden Hazard,Chelsea,LW,1,10.5
+Diego Costa,Chelsea,CF,1,10
+Gary Cahill,Chelsea,CB,3,6.5
+Marcos Alonso Mendoza,Chelsea,LB,3,7
+Cesar Azpilicueta,Chelsea,RB,3,6.5
+Pedro,Chelsea,RW,1,8
+Thibaut Courtois,Chelsea,GK,4,5.5
+David Luiz,Chelsea,CB,3,6
+Cesc Fabregas,Chelsea,CM,2,7
+Willian,Chelsea,RW,1,7
+Victor Moses,Chelsea,RM,2,6.5
+Nemanja Matic,Chelsea,DM,2,5
+N%27Golo Kante,Chelsea,DM,2,5
+Willy Caballero,Chelsea,GK,4,5
+Michy Batshuayi,Chelsea,CF,1,8.5
+Kurt Zouma,Chelsea,CB,3,5.5
+Kenedy,Chelsea,LB,3,5
+Eduardo Carvalho,Chelsea,LW,1,5
+Antonio Rudiger,Chelsea,CB,3,6
+Tiemoue Bakayoko,Chelsea,DM,2,5
+Wilfried Zaha,Crystal Palace,RW,1,7
+Christian Benteke,Crystal Palace,CF,1,8
+Andros Townsend,Crystal Palace,RW,1,6
+Patrick van Aanholt,Crystal Palace,LB,3,5.5
+James McArthur,Crystal Palace,CM,2,4.5
+Wayne Hennessey,Crystal Palace,GK,4,4.5
+Jason Puncheon,Crystal Palace,AM,1,5
+Yohan Cabaye,Crystal Palace,CM,2,5.5
+Joel Ward,Crystal Palace,RB,3,5
+James Tomkins,Crystal Palace,CB,3,4.5
+Scott Dann,Crystal Palace,CB,3,5
+Damien Delaney,Crystal Palace,CB,3,4.5
+Jeffrey Schlupp,Crystal Palace,LB,3,5
+Martin Kelly,Crystal Palace,RB,3,4.5
+Luka Milivojevic,Crystal Palace,DM,2,5
+Lee Chung-yong,Crystal Palace,RW,1,4.5
+Connor Wickham,Crystal Palace,CF,1,5.5
+Bakary Sako,Crystal Palace,LW,1,5
+Pape Souare,Crystal Palace,LB,3,4.5
+Ruben Loftus-Cheek,Crystal Palace,CM,2,4.5
+Julian Speroni,Crystal Palace,GK,4,4
+Ross Barkley,Everton,AM,1,7.5
+Leighton Baines,Everton,LB,3,6
+Seamus Coleman,Everton,RB,3,6.5
+Ashley Williams,Everton,CB,3,5.5
+Kevin Mirallas,Everton,RW,1,6.5
+Michael Keane,Everton,CB,3,5.5
+Phil Jagielka,Everton,CB,3,5
+Jordan Pickford,Everton,GK,4,5
+Joel Robles,Everton,GK,4,4.5
+Idrissa Gueye,Everton,CM,2,5
+Wayne Rooney,Everton,SS,1,7.5
+Ramiro Funes Mori,Everton,CB,3,5
+Maarten Stekelenburg,Everton,GK,4,4.5
+Gareth Barry,Everton,DM,2,4.5
+Tom Davies,Everton,CM,2,5.5
+Mason Holgate,Everton,CB,3,4.5
+Yannick Bolasie,Everton,LW,1,6.5
+Morgan Schneiderlin,Everton,DM,2,5
+Cuco Martina,Everton,RB,3,4.5
+James McCarthy,Everton,CM,2,5
+Aaron Lennon,Everton,RW,1,5.5
+Dominic Calvert-Lewin,Everton,SS,1,5
+Ademola Lookman,Everton,LW,1,5.5
+Matthew Pennington,Everton,CB,3,4
+Jonjoe Kenny,Everton,RB,3,4.5
+Muhamed Besic,Everton,DM,2,4.5
+Davy Klaassen,Everton,AM,1,7.5
+Sandro Ramirez,Everton,CF,1,7.5
+Roberto Firmino,Liverpool,SS,1,8.5
+Philippe Coutinho,Liverpool,AM,1,9
+Sadio Mane,Liverpool,LW,1,9.5
+Georginio Wijnaldum,Liverpool,CM,2,7
+James Milner,Liverpool,CM,2,6.5
+Adam Lallana,Liverpool,AM,1,7.5
+Nathaniel Clyne,Liverpool,RB,3,5.5
+Simon Mignolet,Liverpool,GK,4,5
+Dejan Lovren,Liverpool,CB,3,5.5
+Emre Can,Liverpool,DM,2,5
+Joel Matip,Liverpool,CB,3,5.5
+Divock Origi,Liverpool,CF,1,7.5
+Jordan Henderson,Liverpool,CM,2,5.5
+Daniel Sturridge,Liverpool,CF,1,8
+Lucas Leiva,Liverpool,DM,2,4.5
+Ragnar Klavan,Liverpool,CB,3,4.5
+Mamadou Sakho,Liverpool,CB,3,5
+Loris Karius,Liverpool,GK,4,5
+Trent Alexander-Arnold,Liverpool,RB,3,4.5
+Alberto Moreno,Liverpool,LB,3,4.5
+Ben Woodburn,Liverpool,LW,1,4.5
+Marko Grujic,Liverpool,CM,2,4.5
+Joe Gomez,Liverpool,CB,3,4.5
+Sheyi Ojo,Liverpool,LW,1,5
+Mohamed Salah,Liverpool,RW,1,9
+Danny Ings,Liverpool,CF,1,5.5
+Dominic Solanke,Liverpool,CF,1,5
+Kevin De Bruyne,Manchester City,AM,1,10
+Sergio Aguero,Manchester City,CF,1,11.5
+Raheem Sterling,Manchester City,LW,1,8
+Kyle Walker,Manchester City,RB,3,6.5
+David Silva,Manchester City,AM,1,8
+Leroy Sane,Manchester City,LW,1,8.5
+Nicolas Otamendi,Manchester City,CB,3,5.5
+Aleksandar Kolarov,Manchester City,LB,3,5.5
+Yaya Toure,Manchester City,CM,2,6.5
+Fernandinho,Manchester City,DM,2,5
+Claudio Bravo,Manchester City,GK,4,5
+Gabriel Jesus,Manchester City,CF,1,10.5
+John Stones,Manchester City,CB,3,5.5
+Vincent Kompany,Manchester City,CB,3,6
+Kelechi Iheanacho,Manchester City,CF,1,7
+Ilkay Gundogan,Manchester City,CM,2,5.5
+Fernando,Manchester City,DM,2,4.5
+Fabian Delph,Manchester City,CM,2,4.5
+Ederson Moraes,Manchester City,GK,4,5.5
+Bernardo Silva,Manchester City,RW,1,8
+Romelu Lukaku,Manchester United,CF,1,11.5
+David de Gea,Manchester United,GK,4,5.5
+Antonio Valencia,Manchester United,RB,3,6.5
+Paul Pogba,Manchester United,CM,2,8
+Eric Bailly,Manchester United,CB,3,6
+Juan Mata,Manchester United,AM,1,7
+Daley Blind,Manchester United,LB,3,5.5
+Ander Herrera,Manchester United,CM,2,5.5
+Anthony Martial,Manchester United,CF,1,8
+Marcos Rojo,Manchester United,CB,3,5.5
+Marcus Rashford,Manchester United,CF,1,7.5
+Henrikh Mkhitaryan,Manchester United,AM,1,8
+Matteo Darmian,Manchester United,RB,3,5.5
+Jesse Lingard,Manchester United,LW,1,6
+Phil Jones,Manchester United,CB,3,5
+Chris Smalling,Manchester United,CB,3,5.5
+Marouane Fellaini,Manchester United,CM,2,5
+Luke Shaw,Manchester United,LB,3,5
+Michael Carrick,Manchester United,DM,2,4.5
+Ashley Young,Manchester United,LM,2,5
+Sergio Romero,Manchester United,GK,4,5
+Axel Tuanzebe,Manchester United,CB,3,4
+Timothy Fosu-Mensah,Manchester United,DM,2,4.5
+Joel Castro Pereira,Manchester United,GK,4,4
+Victor Lindelof,Manchester United,CB,3,5.5
+Dele Alli,Tottenham,CM,2,9.5
+Harry Kane,Tottenham,CF,1,12.5
+Christian Eriksen,Tottenham,AM,1,9.5
+Son Heung-min,Tottenham,LW,1,8
+Hugo Lloris,Tottenham,GK,4,5.5
+Jan Vertonghen,Tottenham,CB,3,6
+Toby Alderweireld,Tottenham,CB,3,6
+Victor Wanyama,Tottenham,DM,2,5
+Eric Dier,Tottenham,DM,2,5
+Ben Davies,Tottenham,LB,3,5.5
+Danny Rose,Tottenham,LB,3,6.5
+Mousa Dembele,Tottenham,CM,2,5
+Vincent Janssen,Tottenham,CF,1,7.5
+Kieran Trippier,Tottenham,RB,3,5.5
+Moussa Sissokho,Tottenham,CM,2,5.5
+Harry Winks,Tottenham,CM,2,5
+Erik Lamela,Tottenham,RW,1,6.5
+Michel Vorm,Tottenham,GK,4,5
+Georges-Kevin N%27Koudou,Tottenham,LW,1,5.5
+Kevin Wimmer,Tottenham,CB,3,4.5

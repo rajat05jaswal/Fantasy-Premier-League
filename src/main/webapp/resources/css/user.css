@@ -1,0 +1,81 @@
+@charset "ISO-8859-1";
+.squad-wrapper{
+	width: 50%;
+	float: left;
+	border: 1px solid black;
+	background-color: #00FF87;
+	position: relative;
+}
+.box{
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	margin: 10px 0;
+}
+.box .add{
+	background: url(../images/plus.png);
+    background-size: contain;
+    height: 100%;
+    width: 100%;
+}
+.overlay.show{
+	display: block;
+}
+.overlay, .overlay-info{
+	position: absolute;
+	display: none;
+	left: 0;
+	top: 0;
+	height: 250px;
+	width: 200px;
+	border: 1px solid black;
+	background: white;
+	opacity: 0.9;
+}
+.overlay-info{
+	height: 200px;
+}
+.overlay-info.show{
+	display: block;
+}
+.overlay .playerData{
+	height: 85%;
+	overflow-y: scroll;
+}
+.overlay .playerData table{
+	width: 100%;
+}
+
+.overlay input{
+	margin-top: 5px;
+}
+.overlay #save{
+	margin-left: 10px;
+}
+.overlay #cancel{
+	margin-left: 50px;
+}
+.squad-wrapper > div{
+	overflow: hidden;
+}
+.goalKeeper{
+	margin-left: 50%;
+}
+.defender{
+	float: left;
+	margin-left: 15%;
+}
+.midFielder{
+	float: left;
+	margin-left: 21%;
+}
+.attacker{
+	float: left;
+	margin-left: 21%;
+}
+.welcome{
+	display:inline-block;
+}
+.logout{
+	float:right;
+}

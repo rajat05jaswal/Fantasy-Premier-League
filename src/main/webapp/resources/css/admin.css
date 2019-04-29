@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+.left-wrapper{
+	width: 10%;
+	float: left;
+	padding: 10px 20px;
+}
+.right-wrapper{
+	width: 79%;
+	float: left;
+	padding-left: 20px;
+	border-left: 1px solid black;
+	min-height: 100px;
+	overflow: hidden;
+}
+#matches-table{
+	float: left;
+	width: 40%;
+}
+.left-wrapper > div{
+	padding: 10px 0;
+}
+.pdfLink{
+	clear: both;
+    margin-left: 190px;
+}
+#points-wrapper{
+	display: none;
+	float: left;
+	width: 40%;
+	border: 1px solid black;
+	padding: 20px;
+}
+#points-wrapper > form > div{
+	overflow: auto;
+}
+#points-wrapper h3{
+	text-align: center;
+}
+#points-wrapper .home-team{
+	float: left;
+	width: 45%;
+}
+#points-wrapper .away-team{
+	float: left;
+	width: 45%;
+}
